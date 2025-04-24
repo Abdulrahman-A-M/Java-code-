@@ -1,4 +1,7 @@
 #Hi
+<<<<<<< HEAD
 #How are you!
 #I'm goode and you!
+=======
+>>>>>>> a850ee1 (te.txt working on)
 
