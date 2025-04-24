@@ -102,7 +102,12 @@ public class Main {
         panel.add(new JButton("Python"));
         panel.add(new JButton("Java"));
     }
+<<<<<<< HEAD
 
 //IS just for test !
 //jdflkoks
 
+=======
+}
+//IS just for test !
+>>>>>>> ab4f1db (test is working)
